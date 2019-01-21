@@ -9,3 +9,6 @@ But I wrote a new one this afternoon, and it works well.
 Oh, well... it seems that the God just wants me to start from the beginning.
 
 Never mind! I code much quicker than last summer :-P So it won't take long to finish the baseline model!
+
+### 21st
+I then come across a really wierd problem... after updating my pi to Stretch, wifi just disappeared... Jesus
