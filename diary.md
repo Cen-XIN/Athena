@@ -12,3 +12,8 @@ Never mind! I code much quicker than last summer :-P So it won't take long to fi
 
 ### 21st
 I then come across a really wierd problem... after updating my pi to Stretch, wifi just disappeared... Jesus
+
+### 22nd
+What's worse, I got my SD card burnt!!! All works I've done just crashed! My God! I should start from ZERO again!
+
+No time to curse...
