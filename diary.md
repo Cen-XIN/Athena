@@ -17,3 +17,10 @@ I then come across a really wierd problem... after updating my pi to Stretch, wi
 What's worse, I got my SD card burnt!!! All works I've done just crashed! My God! I should start from ZERO again!
 
 No time to curse...
+
+### 24th
+Well, all the things on fundamental level have been done (I guess).
+
+The Pi controls the Arduino well and also gets the right data from RPLidar.
+
+Let's focus on SLAM then :-)
