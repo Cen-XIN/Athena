@@ -24,3 +24,13 @@ Well, all the things on fundamental level have been done (I guess).
 The Pi controls the Arduino well and also gets the right data from RPLidar.
 
 Let's focus on SLAM then :-)
+
+# Feb
+### 12th
+OMG, the fxxking problem has just been done =) It finally turns out to be the hardware problem that the USB port can not supply enough power!
+
+Guess what measures I have taken? Disable the HDMI, the audio, the Ethernet port, the LEDs... never work! The voltage on the USB port still remains 4.9V!
+
+After a discussion with my supervisor, we decide to change a new Pi. Then everything works on well.
+
+I have to confess it's trivial, but it actually stuck me for two weeks!!! Oh, what a waste of time!!!
