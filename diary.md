@@ -34,3 +34,15 @@ Guess what measures I have taken? Disable the HDMI, the audio, the Ethernet port
 After a discussion with my supervisor, we decide to change a new Pi. Then everything works on well.
 
 I have to confess it's trivial, but it actually stuck me for two weeks!!! Oh, what a waste of time!!!
+
+# Mar
+### 1st
+
+So I must move on... (hope my supervisor can manage a desktop so that I can follow up on ROS)
+
+### 6th
+Just changed to a native Ubuntu environment. Then....
+
+All things start working well!!!
+
+I wasted half of a semester solving WSL communication issues...
