@@ -37,6 +37,7 @@ I have to confess it's trivial, but it actually stuck me for two weeks!!! Oh, wh
 
 # Mar
 ### 1st
+Well, it seems that I was solving the commucation/networking problem for the rest of Feb! Those problems on WSL are rly disappointing. Several solutions have been tried, but never did they work. However there is no time left for me to be stuck on the same problem for so long time...
 
 So I must move on... (hope my supervisor can manage a desktop so that I can follow up on ROS)
 
