@@ -47,3 +47,15 @@ Just changed to a native Ubuntu environment. Then....
 All things start working well!!!
 
 I wasted half of a semester solving WSL communication issues...
+
+### 22nd
+It took a lot of time to solve the odometry problem...
+
+Currently Gmapping works fine while moving forword or slowly turning left/right. But the axes shown on Rviz still turns to be a bit weird :-( (i.e. moving very FAST or turning a really BIG degree)
+
+Might be solved later.
+
+However, I have to move on now as no time left for covering the details...
+
+(Forgive me :-P)
+
