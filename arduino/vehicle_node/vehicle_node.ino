@@ -306,9 +306,16 @@ void writeSpeed(int car_speed) {
       master_speed = 255;
       break;
   }
-  slave_speed = master_speed - 20;
-  analogWrite(E2, master_speed);
-  analogWrite(E1, slave_speed);
+  if (car_speed <= 7) {
+    slave_speed = master_speed - 15;  
+  } else {
+    slave_speed = master_speed - 10;
+  }
+  
+  //analogWrite(E2, master_speed);
+  //analogWrite(E1, slave_speed);
+  analogWrite(E1, master_speed);
+  analogWrite(E2, slave_speed);
 }
 
 void writeDirection(int car_direction, int car_speed) {
@@ -332,16 +339,16 @@ void writeDirection(int car_direction, int car_speed) {
       is_turning = 0;
       digitalWrite(M1, LOW);
       digitalWrite(M2, LOW);
-      analogWrite(E1, 225);
-      analogWrite(E2, 225);
+      analogWrite(E1, 235);
+      analogWrite(E2, 205);
       break;    
     case 'e':
       is_moving = 1;
       is_turning = 0;
       digitalWrite(M1, LOW);
       digitalWrite(M2, LOW);
-      analogWrite(E1, 195);
-      analogWrite(E2, 255);
+      analogWrite(E1, 205);
+      analogWrite(E2, 215);
       break;        
     case 'a':
       is_turning = 1;
