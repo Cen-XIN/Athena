@@ -64,3 +64,18 @@ OMG All the process names got lost
 
 No choice but to redo it tomorrow (must get up early)
 
+### 27th
+Cartographer configuration done
+
+Map quality and localization accuracy came to be quite good (though a bit slow)
+
+Will be uploaded later (depends on the meeting tomorrow)
+
+### 28th
+Time to upload the stuffs running on my laptop (actually loaned from soc :-P)
+
+I think the hardest part may be done successfully.
+
+But still there are some supplimentary experiments needed to be done.
+
+Finally should be the report :-) may be discussed later.
