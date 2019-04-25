@@ -79,3 +79,16 @@ I think the hardest part may be done successfully.
 But still there are some supplimentary experiments needed to be done.
 
 Finally should be the report :-) may be discussed later.
+
+# April
+### 25th
+Ultimately finished the Final Presentation...
+
+My supervisor is quite friendly, but the evaluator is really scary... always cut in and question me XD But he is actually a quite nice professor, always giving me useful suggestions.
+
+I may never forget the three weeks... Write thesis... revise... revise... and revise again... then prepare slides (less time...)
+
+The most painful days through my undergraduate life :-P
+
+Actually quite meaningful for my graduate study later on :-)
+
