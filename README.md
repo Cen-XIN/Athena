@@ -1,6 +1,6 @@
 # Athena
 
-This project is to draw a comparison of different SLAM algorithms on several aspects. The experiment is conducted on a distributed system with a laptop as the master, a Raspberry Pi as the slave, and an Arduino as the control center under ROS.
+This is my Final Year Project (conducted @ NUS) of Undergraduate Study (undertaken @ HZAU). The project is to compare different 2D SLAM algorithms (including Hector SLAM, Gmapping, and Cartographer) on a distributed robotic system (based on ROS). As the heading shows, the system is called "Athena" (I'm inclined to name in a weird sense :-P).
 
 ## Getting Started
 
@@ -77,5 +77,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-TODO...
-
+I would like to express my very great appreciation to my supervisor Dr. Soo for his patient guidance, enthusiastic encouragement, and useful critiques of this project. I would also like to thank Prof. Tan for offering me a chance to study in School of Computing, National University of Singapore. Although the semester is short, I will treasure all I have seen and experienced during this period. I believe such an experience can be helpful and valuable in my future study.
