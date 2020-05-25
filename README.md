@@ -65,11 +65,11 @@ sudo /etc/init.d/dphys-swapfile restart
 
 ## Running the tests
 
-TODO...
+See evaluation directory.
 
 ## Deployment
 
-TODO...
+See my original documents.
 
 ## License
 
